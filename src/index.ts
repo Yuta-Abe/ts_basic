@@ -29,8 +29,14 @@
 // objectSample()
 // typeAliasSample()
 
-// 06.配列とタプルの定義
-import arraySample from './array/array'
-import tupleSample from './array/tuple'
-arraySample()
-tupleSample()
+// // 06.配列とタプルの定義
+// import arraySample from './array/array'
+// import tupleSample from './array/tuple'
+// arraySample()
+// tupleSample()
+
+//07.ジェネリック型とポリモーフィズム
+import genericsBasicSample from './generics/basic'
+import genericsAdvancedSample from './generics/advanced'
+genericsBasicSample()
+genericsAdvancedSample()
