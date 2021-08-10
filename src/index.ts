@@ -44,8 +44,12 @@
 //10.非同期処理
 //import callbackSample from './asynchronous/callback'
 // import promiseSample from './asynchronous/promise'
-import asyncawaitSample from './asynchronous/asyncawait'
+// import asyncawaitSample from './asynchronous/asyncawait'
 
 //callbackSample()
 // promiseSample()
-asyncawaitSample()
+// asyncawaitSample()
+
+// Question
+import question from './question/question'
+question()
