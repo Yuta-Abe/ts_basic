@@ -51,5 +51,7 @@
 // asyncawaitSample()
 
 // Question
-import question from './question/question'
-question()
+//import question1 from './question/question1'
+import question2 from './question/question2'
+//question1()
+question2()
